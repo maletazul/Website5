@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://maletazul.pt/</title>
+  <link>https://maletazul.pt/</link>
+
+<item>
+     <link>https://maletazul.pt/</link>
+     <title>Maletazul Lda - Consultoria e Telecomunicações</title>
+     <description>Maletazul Lda - Consultoria e Telecomunicações</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://maletazul.pt/index.html</link>
+     <title>Maletazul Lda - Consultoria e Telecomunicações</title>
+     <description>Maletazul Lda - Consultoria e Telecomunicações</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
